@@ -1,6 +1,19 @@
 <resources>
     <string name="app_name">TugasAkhir-InceAhmad-Kuliner</string>
     <string name="placeholder_search">Search</string>
-    <string name="ctg_gorengan">Gorengan</string>
-    <string name="recom_ikan_bakar">Ikan Bakar</string>
+    <string name="ikan_bakar">Ikan Bakar</string>
+    <string name="aneka_daging">Aneka Daging</string>
+    <string name="minuman">Minuman</string>
+    <string name="seafood">Seafood</string>
+    <string name="khas_daerah">Khas Daerah</string>
+    <string name="aneka_dessert">Kumpulan Dessert</string>
+    <string name="ayam_bakar">Ayam Bakar</string>
+    <string name="nasi_goreng">Nasi Goreng</string>
+    <string name="kategori_menu">Kategori</string>
+    <string name="recommendation_menu">Rekomendasi Menu</string>
+    <string name="bottom_navigation_home">Home</string>
+    <string name="bottom_navigation_profile">Profile</string>
+    <string name="rendang_daging">Rendang Daging</string>
+    <string name="jus_mangga">Jus Mangga</string>
+    <string name="puding_coklat_oreo">Puding Coklat Oreo</string>
 </resources>
